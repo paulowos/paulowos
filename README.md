@@ -18,7 +18,6 @@ Olá, me chamo **Paulo Willian**, sou do Rio de Janeiro, Brasil e atualmente est
 - 📫 Por favor, envie um email para **paulowos@gmail.com** para me encontrar;
 
 <br />
-<br />
 
 ## Linguagens e ferramentas:
 
