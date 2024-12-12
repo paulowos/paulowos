@@ -9,7 +9,7 @@ Olá, me chamo **Paulo Willian**, sou do Rio de Janeiro, Brasil e atualmente est
 
 ## Meus interesses pessoais
 
-- 👨🏽‍💻 Estou estudando **NestJS** e **Angular**;
+- 👨🏽‍💻 Estou estudando **Android Nativo** e **Kotlin Multiplataforma**;
 - 📖 Sempre estudando **POO** e **SOLID**;
 - 🌱 Viciado em fazer **testes unitários**;
 - 🤔 Meus hobbies são **CRPG** e **MMORPG**;
